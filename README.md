@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Italo Vinicius
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor focado em Back-End`**
 
 Me chamo Italo Vinicius, tenho 21 anos e sou natural de Pernambuco. Concluí o ensino médio no EREFEM Governador Barbosa Lima. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR e cursanto Técnico em Informática no Grau Técnico.
 
