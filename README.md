@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **italovinicius.0105@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1wq-oQBsDRXbDNhw6VZaId9bDwKeGA7x-/view?usp=drive_link](https://drive.google.com/file/d/1wq-oQBsDRXbDNhw6VZaId9bDwKeGA7x-/view?usp=drive_link)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1EnrHNRmumWLFBYXACx5tBXTtSLj2_-Ga/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
