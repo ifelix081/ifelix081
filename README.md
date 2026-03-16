@@ -1,62 +1,31 @@
-# 👩🏻‍💻 Italo Vinicius
+# Hi 👋, I'm Italo Vinicius
 
-**`Desenvolvedor focado em Back-End`**
+### A budding Html developer
 
-Me chamo Italo Vinicius, tenho 21 anos e sou natural de Pernambuco. Concluí o ensino médio no EREFEM Governador Barbosa Lima. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR e cursanto Técnico em Informática no Grau Técnico.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifelix081&label=Profile views&color=0e75b6&style=flat" alt="ifelix081" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifelix081" alt="ifelix081" /></a> </p>
+
+- 🌱 I'm currently learning **HTML, CSS, JS, PHYTON, C, C++, C#**
+
+- 📫 How to reach me **italovinicius.0105@gmail.com**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1wq-oQBsDRXbDNhw6VZaId9bDwKeGA7x-/view?usp=drive_link](https://drive.google.com/file/d/1wq-oQBsDRXbDNhw6VZaId9bDwKeGA7x-/view?usp=drive_link)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://github.com/ifelix081?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ifelix081?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ifelix081?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ifelix081?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<a href="https://github.com/ifelix081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ifelix081" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/italo-vinicius-260b0725b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/italo-vinicius-260b0725b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/italof081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/italof081" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/P4QmCc8G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/P4QmCc8G" height="30" width="40" /></a>
 </p>
 
----
-  
-#### 📫 Como me achar:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199439997890/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/italof081/)  &nbsp;
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-  
-### 🤖 Linguagens e Tecnologias que estou aprendendo
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifelix081&show_icons=true&locale=en&layout=compact" alt="ifelix081" /></p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifelix081&show_icons=true&locale=en" alt="ifelix081" /></p>
 
-<br/>
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifelix081&" alt="ifelix081" /></p>
 
-### 📊 Estatísticas
-  [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=ifelix081&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
