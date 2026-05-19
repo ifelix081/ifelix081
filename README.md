@@ -1,16 +1,31 @@
-```python
-class Italo():
-    
-  def __init__(self):
-    self.name = "Italo_Vincius"
-    self.username = "ifelix081"
-    self.location = "404 not found"
-    self.web = "404 not found"
-    self.hardskill = "Python, Git, Linux, C"
-  
-  def __str__(self):
-    return self.name
+```JavaScript
+class Italo {
+  constructor() {
+    this.name = "Italo Vincius";
+    this.username = "ifelix081";
+    this.location = "404 not found";
+    this.web = "404 not found";
+    this.hardskill = "Python, Git, Linux, C";
+  }
 
-if __name__ == '__main__':
-    me = Italo()
-```
+  toString() {
+    return this.name;
+  }
+
+  getInfo() {
+    return {
+      nome: this.name,
+      usuario: this.username,
+      localizacao: this.location,
+      website: this.web,
+      habilidades: this.hardskill
+    };
+  }
+}
+
+const me = new Italo();
+
+console.log(`Bem vindo a ${me.toString()}`);
+console.log("Informacoes:", me.getInfo());
+
+module.exports = Italo;
