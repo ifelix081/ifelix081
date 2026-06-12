@@ -72,8 +72,8 @@ Bot construído com **discord.py** oferecendo comandos de moderação: ban, kick
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifelix081&show_icons=true&theme=default&hide_border=true&locale=pt-br" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifelix081&layout=compact&hide_border=true&locale=pt-br" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ifelix081&show_icons=true&theme=default&hide_border=true&locale=pt-br" alt="GitHub Nota" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifelix081&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens" height="160"/>
 </p>
 
 ---
